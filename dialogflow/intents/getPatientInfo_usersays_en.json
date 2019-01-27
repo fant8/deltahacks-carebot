@@ -1,0 +1,178 @@
+[
+  {
+    "id": "e9308ccd-695d-4ea1-8220-66e9cc69dafb",
+    "data": [
+      {
+        "text": "Get ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "alias": "field",
+        "meta": "@field",
+        "userDefined": false
+      },
+      {
+        "text": " for patient ",
+        "userDefined": false
+      },
+      {
+        "text": "108",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548571801
+  },
+  {
+    "id": "259bc388-46fd-4008-8134-9545c5c6cb61",
+    "data": [
+      {
+        "text": "Diagnosis",
+        "alias": "field",
+        "meta": "@field",
+        "userDefined": false
+      },
+      {
+        "text": ", please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548570709
+  },
+  {
+    "id": "9f705589-a3be-4e9f-a419-495d8ce4d3f4",
+    "data": [
+      {
+        "text": "Patient ",
+        "userDefined": false
+      },
+      {
+        "text": "105",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "full name",
+        "alias": "field",
+        "meta": "@field",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548570709
+  },
+  {
+    "id": "f1cf1698-2263-437b-9572-289c81f3c816",
+    "data": [
+      {
+        "text": "Could you find me the ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "alias": "field",
+        "meta": "@field",
+        "userDefined": false
+      },
+      {
+        "text": " I gave to patient ",
+        "userDefined": false
+      },
+      {
+        "text": "107",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548570709
+  },
+  {
+    "id": "0fa929d6-eca2-4e2e-a5a9-581101d49b8c",
+    "data": [
+      {
+        "text": "Could I get info on patient ",
+        "userDefined": false
+      },
+      {
+        "text": "103",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548570709
+  },
+  {
+    "id": "4fc0f17d-969a-4a8f-a202-ca3da5f614ae",
+    "data": [
+      {
+        "text": "Look up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548570709
+  },
+  {
+    "id": "249e1e4d-dd2a-42d5-ac40-74136c8a4409",
+    "data": [
+      {
+        "text": "Look up patient ",
+        "userDefined": false
+      },
+      {
+        "text": "104",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "diagnosis",
+        "alias": "field",
+        "meta": "@field",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548571665
+  }
+]

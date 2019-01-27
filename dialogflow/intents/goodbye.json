@@ -1,0 +1,28 @@
+{
+  "id": "3fa55cb9-ca94-401d-bc19-ad9b05be1466",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Alright, have a great day, Dr. Martin!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548575235,
+  "fallbackIntent": false,
+  "events": []
+}

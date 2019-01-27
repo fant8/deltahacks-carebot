@@ -1,0 +1,127 @@
+{
+  "id": "8e99f756-4ede-43ae-9c57-a68a7e33f4e6",
+  "name": "addPatientInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6545f2d4-f547-4321-8153-6daa62fea67f",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "givenName",
+          "value": "$givenName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure. What\u0027s the patient\u0027s first name?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay. What is the patient\u0027s given name?"
+            },
+            {
+              "lang": "en",
+              "value": "Alright. Could I get the patient\u0027s full name?"
+            },
+            {
+              "lang": "en",
+              "value": "To get started, please give me the patient\u0027s full name."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a53f9364-a286-431f-92fe-fe62a9add930",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "lastName",
+          "value": "$lastName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure. What is the patient\u0027s last name?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay. What is the patient\u0027s surname?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9171f58f-0745-474e-9d51-3044e5cb405a",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "patientNumber",
+          "value": "$patientNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Great. What is the patient\u0027s reference number?"
+            },
+            {
+              "lang": "en",
+              "value": "Alright. Could I get the patient number?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "5fe68ca9-1ec3-424f-b70b-4e2a9881b671",
+          "required": true,
+          "dataType": "@diagnosis",
+          "name": "diagnosis",
+          "value": "$diagnosis",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And the diagnosis for the patient is?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the diagnosis for the patient?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "571de26c-05cc-49b5-b6e2-7a636c8acb52",
+          "required": true,
+          "dataType": "@prescription",
+          "name": "prescription",
+          "value": "$prescription",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Almost done. What is the patient\u0027s prescription?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay. Finally, what prescription did the patient receive?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$givenName $lastName $patientNumber $diagnosis $prescription"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548569923,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "flu",
+    "synonyms": [
+      "flu",
+      "influenza",
+      "the flu"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "cold",
+      "common cold",
+      "head cold"
+    ]
+  },
+  {
+    "value": "allergy",
+    "synonyms": [
+      "allergy"
+    ]
+  },
+  {
+    "value": "asthma",
+    "synonyms": [
+      "asthma"
+    ]
+  },
+  {
+    "value": "headache",
+    "synonyms": [
+      "headache"
+    ]
+  },
+  {
+    "value": "stomach ache",
+    "synonyms": [
+      "stomach ache"
+    ]
+  }
+]

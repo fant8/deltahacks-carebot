@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d96078c4-35d0-41e2-b76d-a2077c1eb5b2",
+    "data": [
+      {
+        "text": "See ya CareBot.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548574152
+  },
+  {
+    "id": "97d0e35c-5f0d-4ddf-b277-0cacc6618aa0",
+    "data": [
+      {
+        "text": "Thanks, that\u0027s all.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548574152
+  },
+  {
+    "id": "52f34edd-b3f5-4848-aac0-dd95de26763a",
+    "data": [
+      {
+        "text": "Bye, CareBot.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548574152
+  },
+  {
+    "id": "ba69892e-7686-42c9-bcb5-c5cf3ef54a37",
+    "data": [
+      {
+        "text": "goodbye.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548574152
+  }
+]

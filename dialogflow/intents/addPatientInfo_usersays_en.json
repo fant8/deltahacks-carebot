@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ebcaaa6b-f1e5-46d2-bcfd-3bb16f1aa203",
+    "data": [
+      {
+        "text": "Record ",
+        "userDefined": false
+      },
+      {
+        "text": "Jacqueline",
+        "alias": "givenName",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Buckley",
+        "alias": "lastName",
+        "meta": "@sys.last-name",
+        "userDefined": true
+      },
+      {
+        "text": ", patient number ",
+        "userDefined": false
+      },
+      {
+        "text": "103",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": ", diagnosis ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach ache",
+        "alias": "diagnosis",
+        "meta": "@diagnosis",
+        "userDefined": true
+      },
+      {
+        "text": ", prescription ",
+        "userDefined": false
+      },
+      {
+        "text": "tylenol",
+        "alias": "prescription",
+        "meta": "@prescription",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548569733
+  },
+  {
+    "id": "2bfa530c-6a90-4a5b-be9e-a0ae73876cc4",
+    "data": [
+      {
+        "text": "Add info for patient ",
+        "userDefined": false
+      },
+      {
+        "text": "304",
+        "alias": "patientNumber",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "3a0252d0-7296-4ded-ace1-d5260d99b0f1",
+    "data": [
+      {
+        "text": "I would like to add a record for ",
+        "userDefined": false
+      },
+      {
+        "text": "Simon",
+        "alias": "givenName",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Thompson",
+        "alias": "lastName",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "a1e0fb15-3526-4b49-aefc-b476586e60c9",
+    "data": [
+      {
+        "text": "add patient info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "a3526463-b529-4cd7-a838-f03d533ecf15",
+    "data": [
+      {
+        "text": "new record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "df019e72-3a07-4fc3-8700-cf6133ac5e4f",
+    "data": [
+      {
+        "text": "add record",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "a448481d-3161-4125-bd2f-5d15c59308e7",
+    "data": [
+      {
+        "text": "I would like to make a new record.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "ac019a88-77f2-40cb-8e12-4bc476fc5569",
+    "data": [
+      {
+        "text": "add info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  },
+  {
+    "id": "ba2f37f5-e558-40f6-b933-dd96f8cf056b",
+    "data": [
+      {
+        "text": "I would like to add a new patient\u0027s information.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548566532
+  }
+]

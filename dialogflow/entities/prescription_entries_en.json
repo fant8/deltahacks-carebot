@@ -1,0 +1,22 @@
+[
+  {
+    "value": "aspirin",
+    "synonyms": [
+      "aspirin",
+      "ASA"
+    ]
+  },
+  {
+    "value": "tylenol",
+    "synonyms": [
+      "tylenol"
+    ]
+  },
+  {
+    "value": "penicillin",
+    "synonyms": [
+      "penicillin",
+      "amoxicillin"
+    ]
+  }
+]
